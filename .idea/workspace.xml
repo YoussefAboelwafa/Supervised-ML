@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3a5b157-d02c-49ba-9e1b-20e0380616f1" name="Changes" comment="Regression Regularization">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b3a5b157-d02c-49ba-9e1b-20e0380616f1" name="Changes" comment="Regression Regularization" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/youssef/Programming/Notes/scikit-learn",
+    "last_opened_file_path": "/media/youssef/Programming/Notes/Supervised-ML",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,6 +93,7 @@
       <workItem from="1694484608038" duration="2461000" />
       <workItem from="1694488947528" duration="82000" />
       <workItem from="1694513607396" duration="5415000" />
+      <workItem from="1694657594113" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="regression &amp; classification">
       <option name="closed" value="true" />
