@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3a5b157-d02c-49ba-9e1b-20e0380616f1" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification_logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification_logistic-regression.ipynb" afterDir="false" />
+    <list default="true" id="b3a5b157-d02c-49ba-9e1b-20e0380616f1" name="Changes" comment="Hyper Parameter Tuning">
       <change beforePath="$PROJECT_DIR$/regression_linear-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regression_linear-regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +98,7 @@
       <workItem from="1694513607396" duration="5415000" />
       <workItem from="1694657594113" duration="35000" />
       <workItem from="1694723852691" duration="228000" />
-      <workItem from="1694778639725" duration="1036000" />
+      <workItem from="1694778639725" duration="1118000" />
     </task>
     <task id="LOCAL-00001" summary="regression &amp; classification">
       <option name="closed" value="true" />
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694724049883</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Hyper Parameter Tuning">
+      <option name="closed" value="true" />
+      <created>1694779681163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694779681163</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +176,8 @@
     <MESSAGE value="Regression &amp; Classification" />
     <MESSAGE value="Regression Regularization" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Hyper Parameter Tuning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hyper Parameter Tuning" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scikit_learn$main.coverage" NAME="main Coverage Results" MODIFIED="1694471479316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
