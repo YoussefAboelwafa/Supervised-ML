@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3a5b157-d02c-49ba-9e1b-20e0380616f1" name="Changes" comment="Hyper Parameter Tuning">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification_KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification_KNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/music_clean.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/music_clean.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scikit-learn.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b3a5b157-d02c-49ba-9e1b-20e0380616f1" name="Changes" comment="Hyper Parameter Tuning" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/youssef/Programming/Notes/Supervised-ML",
+    "last_opened_file_path": "/media/youssef/Programming/Python-Projects/Credit-Card-Approval-Prediction",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,6 +99,7 @@
       <workItem from="1694723852691" duration="228000" />
       <workItem from="1694778639725" duration="1118000" />
       <workItem from="1694777047870" duration="4990000" />
+      <workItem from="1694866503639" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="regression &amp; classification">
       <option name="closed" value="true" />
