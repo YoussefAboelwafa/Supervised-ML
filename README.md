@@ -10,6 +10,7 @@ This Repo contains some **Models**  of Supervised machine learning <br> and some
 - Classification
   - KNN (K nearest neighbor)
   - Logistic regression
+  - SVM (Support Vector Machine)
  
 ## Operations:
 - Preprocessing
