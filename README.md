@@ -1,6 +1,6 @@
 # Supervised Machine Learning
+![Supervised-Machine-Learning](https://github.com/YoussefAboelwafa/Supervised-ML/assets/96186143/14f9a627-b405-4f70-818a-c88b7d346918)
 
-![Supervised-Machine-Learning](https://github.com/YoussefAboelwafa/Supervised-ML/assets/96186143/c837b890-b4ff-4763-8ef7-11c95c644ae2)
 
 This Repo contains some **Models** of Supervised machine learning <br> and some important **Operations** applied on the data in the preprocessing phase
 
