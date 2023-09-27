@@ -45,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "P:/Notes/Supervised-ML",
+    "last_opened_file_path": "P:/Notes/Deep-Learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,6 +102,7 @@
       <workItem from="1694866503639" duration="14000" />
       <workItem from="1695055749558" duration="6000" />
       <workItem from="1695062528407" duration="721000" />
+      <workItem from="1695468753833" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="regression &amp; classification">
       <option name="closed" value="true" />
